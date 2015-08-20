@@ -1,5 +1,7 @@
 'use strict';
 
+
+var gulp = require('gulp');
 var fileinclude = require('gulp-file-include');
 
 
